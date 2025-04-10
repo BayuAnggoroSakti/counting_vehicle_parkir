@@ -5,7 +5,7 @@ from ultralytics import YOLO
 import numpy as np
 
 # Load model YOLOv8
-model = YOLO("yolov8n.pt")
+model = YOLO("yolov8m.pt")
 
 # Warna bounding box
 colors = {
